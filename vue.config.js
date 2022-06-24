@@ -1,3 +1,3 @@
-publicPath: process.env.NODE_ENV === 'production'
-    ? 'GMZchartsReport'
-    : '/',
+module.exports = {
+    publicPath: './'
+}
