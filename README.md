@@ -1,2 +1,2 @@
 # GMZchartsReport
-my first echats project for the undergraduate composition of mine.
+my first echats project for the undergraduate composition.
